@@ -12,9 +12,9 @@ The ESR Human Genomics team is currently involved in a wide range of projects in
 
 Clinical diagnostics though genetics with the Capital & Coast District Health Board (CCDHB) Regional Genetics Lab – already resulting in potential diagnoses for patients who have been unable to reach a diagnosis with traditional genetic testing
 
-Providing support to CCDHB for the Clinical Genomics GA project.
+Providing support to CCDHB for the [Clinical Genomics GA project](https://www.genomics-aotearoa.org.nz/projects/clinical-genomics).
 
-The Rakeiora project aimed at improving genomic knowledge that will impact on the wellbeing of New Zealanders. This is being co-developed and co-governed with Māori.
+The [Rakeiora project](https://www.genomics-aotearoa.org.nz/projects/rakeiora-pathfinder-genomic-medicine) aimed at improving genomic knowledge that will impact on the wellbeing of New Zealanders. This is being co-developed and co-governed with Māori.
 
 Leah says, "Right now, we can do speedy, low cost exome sequencing and analysis. An exome is the protein coding regions (genes) of a genome, which is actually only around 1% of the human genome.  Our ability to do both the sequencing and bioinformatics in-house means more comprehensive genetic tests can be turned around quickly, a matters of days compared to months. This means a potential increase in our ability to diagnose rare diseases and better treat patients."
 
