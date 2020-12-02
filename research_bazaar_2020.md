@@ -13,3 +13,5 @@ Workflow languages automate your data analysis workflow . But this isn’t all, 
 In this workshop, we will work through an introduction to Snakemake, a workflow language with its basis in the popular programming language, Python. This Workshop is intended for anyone who has several steps in their data analysis workflow, particularly when many different software are involved.
 
 **Bio:** I’m a bioinformatician at ESR (Institute of Environmental Science and Research). I wrangle large human genomic data which demands I use workflow languages.
+
+**Link to workshop:** https://github.com/leahkemp/RezBaz2020_snakemake_workshop
