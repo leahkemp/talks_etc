@@ -1,3 +1,3 @@
 # Talks etc.
 
-A place for talk, blurbs, bios etc related to work at ESR
+A place for talks, blurbs, bios etc related to work at ESR
