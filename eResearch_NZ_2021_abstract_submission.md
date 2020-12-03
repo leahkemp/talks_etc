@@ -1,4 +1,4 @@
-# The path to growing New Zealands clinical genomics capacity
+# The path to growing New Zealand's clinical genomics capacity
 
 ## [eResearch NZ 2021](https://www.eresearchnz2021.org.nz/) abstract submission
 
