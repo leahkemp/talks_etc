@@ -1,4 +1,4 @@
-# [Research Bazaar (ResBaz) 2020](https://resbaz.auckland.ac.nz/) workshop
+# [Research Bazaar (ResBaz) 2020](https://resbaz.auckland.ac.nz/) - workshop
 
 **Date: 23-27/11/2020** 
 
