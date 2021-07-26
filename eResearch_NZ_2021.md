@@ -14,8 +14,8 @@ We envision a future where clinical genome sequencing can be done in New Zealand
 
 ## Presentation slides
 
-https://www.canva.com/design/DAEVB3euWMM/8Gmqh4Lse0MvxTDubnoDAQ/view?utm_content=DAEVB3euWMM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+[See here](https://www.canva.com/design/DAEVB3euWMM/8Gmqh4Lse0MvxTDubnoDAQ/view?utm_content=DAEVB3euWMM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Media video
 
-https://www.youtube.com/watch?v=dBOD8sCwW8Q
+[See here](https://www.youtube.com/watch?v=dBOD8sCwW8Q)
