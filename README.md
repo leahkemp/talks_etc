@@ -13,3 +13,7 @@ A place for talks, blurbs, bios etc related to work at ESR
 **10-12/2/2021** - [eResearch 2021 - talk](./eResearch_NZ_2021.md)
 
 **19-20/4/2021** - [Genomics Aotearoa PostDoc event - talk](./GA_postdoc_event.md)
+
+## Other
+
+Not published - [GA blog post](./GA_blog_post)
