@@ -1,4 +1,4 @@
-# Genomics Aotearoa PostDoc event - talk
+# Genomics Aotearoa PostDoc event - invited speaker
 
 Date: 19-20/4/2021
 
