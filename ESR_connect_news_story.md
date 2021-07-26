@@ -2,7 +2,9 @@
 
 Date: 30/10/2020
 
-## Our growing opportunities in human genomics
+## News story
+
+**Our growing opportunities in human genomics**
 
 ​Did you know that earlier this year, the $100 barrier for sequencing a human genome was broken by the Beijing Genomics Institute?  A decade ago, this would have put you $50,000 out of pocket. Globally, genomic technology has been, and continues to be, a rapidly developing field. Last week, Leah Kemp, a Bioinformatician in the Human Genomics team gave a presentation to the Genomics Aotearoa community to highlight the incredible opportunities that exists with continuing to grow ESR's clinical genomic capacity.
 
