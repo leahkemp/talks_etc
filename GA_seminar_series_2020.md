@@ -1,4 +1,4 @@
-# Genomic Aotearoa Seminar Series - talk
+# Genomic Aotearoa Seminar Series - invited speaker
 
 Date: 23/10/2020
 
