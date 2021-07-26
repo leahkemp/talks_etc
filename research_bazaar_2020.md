@@ -1,6 +1,6 @@
-# Workshop for Research Bazaar (ResBaz) 2020
+# [Research Bazaar (ResBaz) 2020](https://resbaz.auckland.ac.nz/) workshop
 
-**Link:** https://resbaz.auckland.ac.nz/
+**Date: 23-27/11/2020** 
 
 **Session title:** Workflow languages – your foundation for accuracy and reproducibility in data analysis
 
