@@ -1,4 +1,4 @@
-# [eResearch NZ 2021](https://www.eresearchnz2021.org.nz/) talk
+# [eResearch NZ 2021](https://www.eresearchnz2021.org.nz/) - invited speaker
 
 Date: 10-12/2/2020
 
