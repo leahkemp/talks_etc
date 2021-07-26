@@ -4,4 +4,4 @@
 
 ## Workshop
 
-https://github.com/leahkemp/RezBaz2020_snakemake_workshop
+[See here](https://github.com/leahkemp/RezBaz2020_snakemake_workshop)
