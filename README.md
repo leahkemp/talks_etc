@@ -16,4 +16,4 @@ A place for talks, blurbs, bios etc related to work at ESR
 
 ## Other
 
-Not published - [GA blog post](./GA_blog_post)
+Not published - [GA blog post](./GA_blog_post.md)
