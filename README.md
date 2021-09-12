@@ -14,6 +14,8 @@ A place for talks, blurbs, bios etc related to work at ESR
 
 **19-20/4/2021** - [Genomics Aotearoa PostDoc event - invited speaker](./GA_postdoc_event.md)
 
+**31/8/2021** - [REANNZ interview](./reannz_interview.md)
+
 ## Other
 
 Not published - [GA blog post](./GA_blog_post.md)
