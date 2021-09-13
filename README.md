@@ -16,6 +16,8 @@ A place for talks, blurbs, bios etc related to work at ESR
 
 **31/8/2021** - [REANNZ interview](./reannz_interview.md)
 
+**13/9/2021** - [Genomics Aotearoa postdoctoral fellowships website blurb](./GA_postdoc_website_blurb.md)
+
 ## Other
 
 Not published - [GA blog post](./GA_blog_post.md)
